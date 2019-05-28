@@ -5,7 +5,8 @@
     <classes>
       <class name="Facebook3.Facebooklogin">
         <methods>
-          <include name="teardown"/>
+          <include name="userlogin"/>
+          <include name="Gettitle"/>
           <include name="Initialization"/>
           <include name="createnewaccount"/>
         </methods>
